@@ -1,4 +1,4 @@
-The visualization of a path finding algorithm 
+The visualization of the A* path finding algorithm 
 
 - The user defines the initial and goal nodes (represented as blue and orange squares)
 - The user can then define their own barriers (represented by black squares)
